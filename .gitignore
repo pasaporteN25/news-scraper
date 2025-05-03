@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Archivos de configuración con claves
+config.py
+config_*.py
+
+# Archivos generados por el scraper
+/data/
+!data/.gitkeep  # Mantiene la carpeta pero vacía

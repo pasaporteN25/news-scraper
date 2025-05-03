@@ -1,0 +1,16 @@
+empezado el 2/5/2025
+Pasos futuros:
+
+-Añadir más fuentes de noticias
+
+-Implementar almacenamiento en base de datos (SQLite, MongoDB)
+
+-Añadir procesamiento de NLP para análisis de sentimiento
+
+-Implementar búsqueda avanzada con operadores booleanos
+
+-Añadir interfaz web y mobile
+
+-Implementar programación de ejecuciones periódicas
+
+-Pantalla noticieros en vivo en youtube (easy mute)
